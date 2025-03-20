@@ -45,7 +45,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Duaa Al-Qudimat",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    p: ["I am a full stack developer, user", "and a UI/UX designer"],
   },
   contact: {
     p: "Get in touch",
@@ -65,13 +65,19 @@ export const config: TConfig = {
   sections: {
     about: {
       p: "Introduction",
-      h2: "Overviewi.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
-    },
+      h2: "Overview.",
+      content: `A passionate Business Information Technology student at the
+      University of Jordan with a strong interest in web development, UI/UX
+      design, AI, and continuous learning. Skilled in combining technology
+      and business insights to develop innovative solutions. Always eager to
+      tackle challenges, enhance my skills, and stay at the forefront of the
+      tech industry.`,
+    }, 
+    // I'm a skilled software developer with experience in TypeScript and
+    //   JavaScript, and expertise in frameworks like React, Node.js, and
+    //   Three.js. I'm a quick learner and collaborate closely with clients to
+    //   create efficient, scalable, and user-friendly solutions that solve
+    //   real-world problems. Let's work together to bring your ideas to life!
     experience: {
       p: "What I have done so far",
       h2: "Work Experience.",
