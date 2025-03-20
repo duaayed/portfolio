@@ -26,6 +26,7 @@ import {
   threejs,
   drum,
   weather,
+  book,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -169,25 +170,25 @@ const projects: TProject[] = [
     sourceCodeLink: "https://weatherapi-gamma-seven.vercel.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Book List",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A responsive book list website that preview books and have a functionality to add, delete, and modify books",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Node.js",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    sourceCodeLink: "https://github.com/",
+    image: book,
+    sourceCodeLink: "https://github.com/duaayed/Book-Store-MERN-Backend.git",
   },
   {
     name: "Sevi online bookshop",
